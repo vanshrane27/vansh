@@ -4,8 +4,7 @@ import { motion } from "framer-motion"
 import { Sprout, Home, Package, ShoppingCart, Users, User } from "lucide-react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
-import { AboutPage } from "@/app/about/page"
-import { ProductsPage } from "@/app/products/page"
+
 
 export function NavBar() {
   return (
